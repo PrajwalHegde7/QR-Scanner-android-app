@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="send_email">Send Email</string>
+    <string name="scan_barcode">Scan QRcode</string>
+    <string name="select_photo">Select Photo from Gallery</string>
+    <string name="connect">Connect to Wifi</string>
+    <string name="dial">Dial</string>
+    <string name="email">Add contents to the mail</string>
+    <string name="pay">Pay</string>
+    <string name="url">Launch URL</string>
+    <string name="copy">Copy</string>
+    <string name="no_action">No Action</string>
+    <string name="no_barcode">No QRcode detected</string>
+    <string name="main_details">Welcome to QR Scanner\nThis Scanner makes things easier</string>
+    <string name="how_to">How To Use:</string>
+    <string name="step1">1.\tScan Using &quot;Scan QRcode&quot; or select an image using &quot;Select Photo from Gallery&quot;.</string>
+    <string name="step2">2.\tBased on the result from the QRcode following tasks can be performed:</string>
+    <string name="url_details">\tURL:  redirect users to the URL in any of the      browser.                                         </string>
+    <string name="phone_details">\t      Phone Number: Transfers the phone number to the native dialer app.                  </string>
+    <string name="email_details">\t     Email ID: Mail can be Composed and sent using any mail app.                                </string>
+    <string name="wifi_details">\tWifi: Connects to the wifi and saves the wifi configuration forever.                </string>
+    <string name="upi_details">\tUPI: Redirects the user to any payment app available in the phone.                </string>
+    <string name="text_details">\tText: Copies the text to clipboard.                  </string>
+
+</resources>
