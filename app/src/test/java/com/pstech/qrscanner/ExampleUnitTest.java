@@ -1,4 +1,4 @@
-package com.example.qrscanner;
+package com.pstech.qrscanner;
 
 import org.junit.Test;
 
