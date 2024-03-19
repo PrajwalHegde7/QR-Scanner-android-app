@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">QR Scanner</string>
-    <string name="send_email">Send Email</string>
-    <string name="scan_barcode">Scan Barcode</string>
-</resources>
